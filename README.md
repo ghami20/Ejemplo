@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Mi primer proyecto</h1>
-    
+        <img src="Diagrama.png" alt="">
+
 </body>
 </html>
